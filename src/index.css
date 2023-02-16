@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background-image: conic-gradient(
+    
+    #10172A 200deg,
+    #13307F 20deg,
+    #8F50BA 50deg,
+    #4A2449 20deg,
+    #B850CC 35deg,
+    #34B9F2 30deg,
+    #FEFFFF 10deg
+    
+    ); */
+  /* background-color: black; */
+  height: 100vh;
+  color: white;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
